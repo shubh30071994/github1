@@ -14,6 +14,12 @@ public class Demo {
 		
 	}
 	
+	public void m3()
+	{
+		System.out.println("M3 method");
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		Demo d=new Demo();
